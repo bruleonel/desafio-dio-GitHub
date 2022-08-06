@@ -2,7 +2,7 @@
  :octocat: Desafio repostado porque o primeiro foi excluído. 
  
  ## Comandos pelo terminal dentro da pasta:
- ###git status
- ###git add .
- ###git commit -m <comentario>
- ###git push origin main
+ :pen: git status
+ :pen: git add .
+ :pen: git commit -m <comentario>
+ :pen: git push origin main
